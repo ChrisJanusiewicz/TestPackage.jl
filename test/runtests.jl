@@ -25,9 +25,4 @@ using Test
     @test abs(rr - res) < total_error
     @test abs(tr - res) < total_error
 
-    # @printf("left \t%.4f  %.4f\n", lr, res - lr)
-    # @printf("right\t%.4f  %.4f\n", rr, res - rr)
-    # @printf("trap \t%.4f  %.4f\n", tr, res - tr)
-
-
 end

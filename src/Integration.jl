@@ -1,6 +1,3 @@
-
-using Printf
-
 # TODO: combine into one function to avoid code repetition
 # pass integration 'method' parameter, enum?
 
